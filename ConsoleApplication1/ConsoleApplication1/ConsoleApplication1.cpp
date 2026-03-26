@@ -6,7 +6,8 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    int aosdjapodkas;
+    
+    
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
